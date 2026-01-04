@@ -1,0 +1,164 @@
+cv:
+  name: Gijs Molenaar
+  location: Amsterdam, Netherlands
+  email: gijs@pythonic.nl
+  website: https://pythonic.nl
+  social_networks:
+    - network: LinkedIn
+      username: gijsmolenaar
+    - network: GitHub
+      username: gijzelaerr
+
+  sections:
+    summary:
+      - Versatile engineer at the intersection of software engineering, data science, and scientific computing. Proven track record of transforming prototypes into production-ready systems at scale. Thrive in diverse, cross-functional teams tackling complex technical challenges—quickly mastering new domains and driving solutions from concept to deployment.
+
+    experience:
+      - company: Spotify
+        position: Software Engineer
+        location: Amsterdam, Netherlands
+        start_date: 2022-01
+        end_date: present
+        highlights:
+          - "Fabric team: Built and maintained service mesh, service discovery, and service-to-service authentication/authorization infrastructure"
+          - "ATC team: Developed Edge perimeter systems for attack prevention, scraping detection, and load balancing"
+          - Responded to high-impact incidents affecting platform reliability
+          - Maintained mission-critical legacy systems running since Spotify's inception
+
+      - company: DPG Media
+        position: Machine Learning Engineer
+        location: Amsterdam, Netherlands
+        start_date: 2021-01
+        end_date: 2021-12
+        highlights:
+          - Developed recommendation engine using machine learning techniques
+
+      - company: Pythonic.nl (Freelance)
+        position: Software Engineer & Consultant
+        location: Amsterdam, Netherlands
+        start_date: 2011-01
+        end_date: 2021-12
+        highlights:
+          - Delivered high-quality software products for clients including Alliander, ASTRON, CWI, SARAO, SETI, and SURFnet
+          - Specialized in Python, scientific computing, and AI applications
+          - Developed deep reinforcement learning solutions for electricity grid optimization (Alliander)
+          - Built algorithmic perfume design system using collaborative filtering (Scentronix)
+          - Containerization work for SETI signal search (Breakthrough Listen)
+
+      - company: ASTRON
+        position: Software Engineer
+        location: Netherlands
+        start_date: 2014-01
+        end_date: 2018-12
+        highlights:
+          - Developed KERN radio astronomy software suite
+          - Built APERTIF software packaging and cluster tooling
+          - Created modular data reduction pipelines for ASTERICS project
+
+    education:
+      - institution: Rhodes University
+        area: Radio Astronomy / Computer Science
+        degree: PhD
+        location: South Africa
+        start_date: 2015
+        end_date: 2020
+        highlights:
+          - "Thesis: Design patterns and software techniques for large-scale, open and reproducible containerized data reduction pipelines"
+
+      - institution: University of Amsterdam
+        area: Artificial Intelligence
+        degree: MSc
+        location: Amsterdam, Netherlands
+        start_date: 2009
+        end_date: 2011
+        highlights:
+          - "Thesis: Sonic Gesture - Computer vision MIDI translation"
+
+    publications:
+      - title: "Design patterns and software techniques for large scale, open and reproducible data reduction"
+        authors:
+          - Gijs Molenaar
+        journal: PhD Thesis
+        date: 2021
+
+      - title: "KLIKO - the scientific compute container format"
+        authors:
+          - Gijs Molenaar
+          - et al.
+        journal: Astronomy & Computing
+        date: 2018
+
+      - title: "KERN - The radio astronomy software suite"
+        authors:
+          - Gijs Molenaar
+          - et al.
+        journal: Astronomy & Computing
+        date: 2018
+
+      - title: "The LOFAR transient pipeline"
+        authors:
+          - et al.
+        journal: Astronomy & Computing
+        date: 2015
+
+      - title: "PySE: Software for Extracting Sources from Radio Images"
+        authors:
+          - et al.
+        journal: Astronomy & Computing
+        date: 2018
+
+    projects:
+      - name: MonetDBe-Python
+        date: 2020
+        highlights:
+          - Embedded database with SQLite-like interface and Numpy/Pandas support
+
+      - name: eduVPN Linux Client
+        date: 2020
+        highlights:
+          - VPN client and Python API for educational institutions
+
+      - name: python-snap7
+        date: 2020
+        highlights:
+          - Ethernet communication library for Siemens S7 PLCs
+
+      - name: Vacuum-cleaner
+        date: 2018
+        highlights:
+          - Radio telescope data deconvolution using deep learning
+
+    skills:
+      - label: Programming
+        details: Python, SQL, Bash, C
+
+      - label: Data & ML
+        details: NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, Deep Learning
+
+      - label: Infrastructure
+        details: Docker, Kubernetes, AWS, Linux, CI/CD
+
+      - label: Domains
+        details: Radio Astronomy, Scientific Computing, Data Pipelines, Machine Learning
+
+    certifications:
+      - name: AWS Certified Solutions Architect - Associate
+        date: 2021-06
+
+      - name: Certified EU Drone Operator A1/A2/A3
+        date: 2021-05
+
+      - name: Cisco Certified Network Associate (CCNA)
+        date: 2002-01
+
+    languages:
+      - label: Dutch
+        details: Native
+
+      - label: English
+        details: Full professional proficiency
+
+design:
+  theme: classic
+  page:
+    size: a4
