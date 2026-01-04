@@ -120,6 +120,16 @@ These tools have changed everything. I can now:
 - Work orders of magnitude faster
 - Build things that would have taken weeks in days
 
+In the last two months alone, I've built—entirely with Claude:
+- **python-snap7**: A wrapper for industrial PLC communication
+- **ableton-claude**: Control Ableton Live with Claude using MCP
+- **spectrageist**: Real-time audio feature extraction for live visualization
+- **geistwave**: An experimental music LLM trained on my personal library
+- **charcoaloptimizer**: AI-powered 3D packing optimization for charcoal bags
+- **This CV and talk proposal**: Built with RenderCV and Claude
+
+None of these would have existed without AI assistance. Some I wouldn't have known where to start. Others would have taken months instead of days.
+
 **But here's the nuance**: You still need to understand programming. AI assistants amplify your skills—they don't replace the need to learn. Get your hands dirty first, then use these tools to accelerate.
 
 **The call to action**: If you're not using AI coding assistants yet, start now. Tools like Claude, GitHub Copilot, and Google's offerings are available—some with free tiers for students. This is the new literacy. Don't get left behind.
