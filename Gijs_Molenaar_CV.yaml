@@ -130,16 +130,16 @@ cv:
 
     skills:
       - label: Programming
-        details: Python, SQL, Bash, C
+        details: Python, C++, Java, Rust
 
       - label: Data & ML
         details: NumPy, Pandas, PyTorch, TensorFlow, scikit-learn, Deep Learning
 
       - label: Infrastructure
-        details: Docker, Kubernetes, AWS, Linux, CI/CD
+        details: Google Compute Engine, Docker, Kubernetes, Linux, CI/CD
 
       - label: Domains
-        details: Radio Astronomy, Scientific Computing, Data Pipelines, Machine Learning
+        details: System Engineering, Software Engineering, Scientific Computing
 
     certifications:
       - name: AWS Certified Solutions Architect - Associate
