@@ -5,5 +5,6 @@ description = "Gijs Molenaar's CV built with RenderCV"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "python-pptx>=1.0.2",
     "rendercv[full]>=2.0",
 ]
